@@ -1,2 +1,1 @@
-DLLExample
-==========
+Rules for this repository
